@@ -10,7 +10,7 @@ public class FirstTest extends BaseTest {
     public void testSearch() throws IOException
     {
         GooglePage gp = new GooglePage(driver);
-        driver.get("C://Healinium//userdefinedexample//src//test//resources//sample.html");
+        driver.get(System.getProperty("user.dir")+"//src//test//resources//sample.html");
         gp.searchItem("abc");
 
     }
