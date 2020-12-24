@@ -1,0 +1,12 @@
+
+Q
+java:S1128	"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8§Šäâä.
+^
+java:S1854"<Remove this useless assignment to local variable "jsonNode".(òÿüûÿÿÿÿ8‹Şäâä.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ã¹Ê³şÿÿÿÿ
+j
+java:S1128"HRemove this unused import 'jdk.nashorn.internal.runtime.options.Option'.(¸è¼üÿÿÿÿ8Ÿƒ·¹ä.
+F
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8§Šäâä.
+O
+java:S1481"-Remove this unused "jsonNode" local variable.(òÿüûÿÿÿÿ8‹Şäâä.
